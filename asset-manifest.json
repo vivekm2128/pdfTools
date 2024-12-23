@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pdfTools/static/css/main.13474922.css",
+    "main.js": "/pdfTools/static/js/main.a84d432b.js",
+    "index.html": "/pdfTools/index.html",
+    "main.13474922.css.map": "/pdfTools/static/css/main.13474922.css.map",
+    "main.a84d432b.js.map": "/pdfTools/static/js/main.a84d432b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13474922.css",
+    "static/js/main.a84d432b.js"
+  ]
+}
