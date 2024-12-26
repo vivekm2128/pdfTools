@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pdfTools/static/css/main.92073b19.css",
-    "main.js": "/pdfTools/static/js/main.bfbb1cab.js",
+    "main.css": "/pdfTools/static/css/main.0e5616ad.css",
+    "main.js": "/pdfTools/static/js/main.82c94faa.js",
     "index.html": "/pdfTools/index.html",
-    "main.92073b19.css.map": "/pdfTools/static/css/main.92073b19.css.map",
-    "main.bfbb1cab.js.map": "/pdfTools/static/js/main.bfbb1cab.js.map"
+    "main.0e5616ad.css.map": "/pdfTools/static/css/main.0e5616ad.css.map",
+    "main.82c94faa.js.map": "/pdfTools/static/js/main.82c94faa.js.map"
   },
   "entrypoints": [
-    "static/css/main.92073b19.css",
-    "static/js/main.bfbb1cab.js"
+    "static/css/main.0e5616ad.css",
+    "static/js/main.82c94faa.js"
   ]
 }
